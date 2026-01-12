@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+seaborn
+torch
+transformers
+matplotlib
+
+# Web UI
+requests
+websockets
+python-multipart
+uvicorn
+fastapi
+openai
+pypandoc
